@@ -1,0 +1,139 @@
+0,CHEMISTRY,*,*,"<srai>MY FAVORITE SUBJECT IS CHEMISTRY <star/> 			</srai>",science.aiml
+0,DO YOU KNOW CHEMISTRY,*,*,<srai>WHAT IS CHEMISTRY</srai>,science.aiml
+0,DO YOU UNDERSTAND THERMODYNAMICS,*,*,<srai>WHAT IS THERMODYNAMICS</srai>,science.aiml
+0,HOW FAR IS THE SUN,*,*,"<set name=""it"">The Sun</set> is about 93 million miles from Earth.",science.aiml
+0,Fatigue Weakness Weight gain,*,*,"Sorry, You had a thyroid.Please visit the doctor",science.aiml
+0,whitehead blackhead,*,*,Eww.This is Acne ,science.aiml
+0,hairfall weightloss headpain holes,*,*,Oops you had a AIDS,science.aiml
+0,WHAT ARE THE LAWS OF THERMODYNAMICS,*,*,I'm not a physicist#Comma but I think this has something to do with heat#Comma entropy#Comma and conservation of energy#Comma right?,science.aiml
+0,WHAT DISEASE DOES A CARCINOGEN CAUSE,*,*,Cancer.,science.aiml
+0,cold cough headache,*,*,"Maybe,You had a fever",science.aiml
+0,WHAT IS AVOGADRO S NUMBER,*,*,"It is the number of molecules per mole.  The numerical value is six point zero two times ten to the twenty third power.<think> 				<set name=""it""> 					<set name=""topic"">AVOGADRO S NUMBER</set> 				</set> 			</think>",science.aiml
+0,WHAT IS BACTERIOLOGY,*,*,This is the scientific study of bacteria and diseases caused by them.,science.aiml
+0,cold cough headache,*,*,"A fancy name for applied computer science in biology.<think> 				<set name=""it""> 					<set name=""topic"">BIOINFORMATICS</set> 				</set> 			</think>",science.aiml
+0,cold cough headache,*,*,"The science of mixing chemicals.<think> 				<set name=""it""> 					<set name=""topic"">CHEMISTRY</set> 				</set> 			</think>",science.aiml
+0,WHAT IS CRYSTALLOGRAPHY,*,*,This is the science dealing with the study of crystals.,science.aiml
+0,WHAT IS CYTOLOGY,*,*,"<random> 				<li>The study of cells.</li> 				<li>Well#Comma <get name=""name""/> from what I can recall it is the study of cells.</li> 			</random>",science.aiml
+0,WHAT IS GRAVITATION,*,*,"<random> 				<li>An invitation to a burial.</li> 				<li>The force by which every mass or particle of matter#Comma including photons#Comma attracts and is attracted by every other mass or particle of matter.</li> 			</random>",science.aiml
+0,WHAT IS H2O,*,*,"<random> 				<li>H is to O as O is to V.</li> 				<li>Water.</li> 			</random>",science.aiml
+0,TUMOR ,*,*,,science.aiml
+0,WHAT IS THERMODYNAMICS,*,*,The branch of physics dealing with the transformation of heat to and from other forms of energy#Comma and with the laws governing such conversions of energy.,science.aiml
+0,WHAT IS ULTRASOUND,*,*,Ultrasonic waves#Comma used in medical diagnosis and therapy#Comma in surgery#Comma etc.,science.aiml
+0,WHAT IS VENUS,*,*,In Roman Mythology#Comma the goddess of love and beauty; identified with the Greek Aphrodite.  The brightest#Comma sixth-largest planet in the solar system and the second in distance from the sun#Comma with a dense atmosphere of carbon dioxide and a very high surface temperature. Its diameter is circa 12#Comma100 km (circa 7#Comma520 miles). Its period of revolution is circa 225 earth days. Its period of rotation (retrograde)#Comma is 243.01 earth days.   Also used to label a very beautiful woman.,science.aiml
+0,WHAT IS WAVELENGTH,*,*,In Physics#Comma the distance#Comma measured in the direction of prograssion of a wave#Comma from any given point to the next point characterized by the same phase.  Or is could be looked at as a way of thinking.,science.aiml
+0,BLACKHEAD,*,*,Pimples,science.aiml
+0,high temperature (fever)   sweats  and  chills     headaches    vomiting     muscle pains diarrhoea,*,*,malaria,science.aiml
+0, persistent headaches coughing persistent nausea and vomiting drowsiness vision problems seizures (fits) ,*,*,malignant brain tumour,science.aiml
+0,cold runny nose sneezing cough red eyes ,*,*,Measles,science.aiml
+0,nausea vomiting sweating poor concentration feeling very hot or very cold abdominal (tummy) pain diarrhoea,*,*,migraine,science.aiml
+0,chest pain shortness of breath high temperature (fever) sweating cough,,*,mesothelioma,science.aiml
+0,red or white patches in the mouth or throata lump ulcers persistent pain in the mouth,*,*,Mouth cancer,science.aiml
+0,nosebleedsdecreased sense of smellpain or numbness in the face,*,*,Nasal and sinus cancer,science.aiml
+0,suddenly feeling sick projectile vomiting diarrhoea,*,*,Norovirus,science.aiml
+0,persistent pelvic abdominal pain difficulty eating feeling full quickly feeling nauseous,*,*,ovarian cancer,science.aiml
+0,lump in the neck bone pain difficulty walking pale skin bleeding,*,*,Neuroblastoma ,science.aiml
+0,hyperactivity mood swings feeling tired all the time (fatique)muscle weakness,*,*,overactive thyroid (hyperthyroidism),science.aiml
+0,pelvic pain pain during sex  heavy periods bloating  ,*,*,ovarian cyst,science.aiml
+0,sweating trembling chills chest pain nausea,*,*,panic disorder,science.aiml
+0,rapid heart beat fever sweating shivering chest pain,*,*,Pneumonia,science.aiml
+0,skin that are dry red and covered in silver scales,*,*,Psoriasis,science.aiml
+0,bleeding from the penis foul-smelling discharge rash on the penis,*,*,Penile cancer,science.aiml
+0, food poisoning.,*,*,reactive arthritis ,science.aiml
+0,burning and stinging sensations      permanent redness       small blood vessels in the skin becoming visible,*,*,Rosacea,science.aiml
+0, squint      change in the colour of the iris    inflamed eye,*,*, Retinoblastoma,science.aiml
+0,tingling    burning    itching or throbbing   painful   cramping   sensation in the legs,*,*,Restless legs syndrome,science.aiml
+0,tremor slowness of movement (bradykinesia)   muscle  stiffness (rigidity),*,*, Parkinson's disease,science.aiml
+0,thinking other people are lying to them or trying to manipulate them     feeling they cannot really trust their friends and associates,*,*,personality disorder,science.aiml
+0,needing to urinate more frequently     needing to rush to the toilet          weak flow,*,*,Prostate cancer,science.aiml
+0, lump in the neck hearing loss  tinnitus       nose bleeds,*,*,Nasopharyngeal cancer,science.aiml
+0,night sweats     high temperature (fever)     persistent cough       breathlessness,*,*,Non-Hodgkin lymphoma,science.aiml
+0,hot flushes      night sweats     difficulty sleeping      low mood or anxiety,*,*, menopause,science.aiml
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
+0,,,,,
